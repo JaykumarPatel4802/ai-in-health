@@ -1,1 +1,1 @@
-# ai-in-health
+# AI In Health
